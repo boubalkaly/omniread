@@ -1,0 +1,16 @@
+body {
+    /* background-image: url('colorful.avif'); */
+    background-color: peru;
+    place-items: center;
+    /* display: grid; */
+
+}
+
+
+.introduction{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
